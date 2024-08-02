@@ -1,1 +1,0 @@
-With this project I'll learn how to build a basic recipe website.
